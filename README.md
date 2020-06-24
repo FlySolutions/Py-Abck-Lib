@@ -1,5 +1,6 @@
 # Py-Abck-Lib
 Python Abck Lib inspired by https://github.com/zedd3v/abck \
+Version 1: Next update I plan to push soon with more functions/features
 Example of all uses in main.py \
 Currently created for FireFox
 ```python
