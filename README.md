@@ -51,3 +51,7 @@ d3 = abck.calc_d3()
 print(d3)
 # Output (Is diff each time genned) => 8350580
 ```
+# Requests/issues
+If you have any requests, questions or issues, feel free to open up an issue and I will make sure to respond.
+# Disclaimer
+Please do not try to sell any of this code, but you are free to change it as you like. 
