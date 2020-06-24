@@ -13,7 +13,7 @@ start_ts = int(time()*1000)
 
 # Gd function
 gd = abck.gd(
-   1366, 768, 1366, 768, 1366, 350, 1382, # Screen sizes
+   1366, 768, 1366, 768, 1366, 350, 1382, # Screen sizes (availWidth,availHeight,width,height,clientWidth,clientHeight,outerWidth)
    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0", # User-Agent
    start_ts # Your starting timestamp
 )
