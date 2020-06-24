@@ -46,7 +46,7 @@ o9 = abck.calc_o9()
 print(o9)
 # Output (Is diff each time genned) => 75155232
 
-#d3
+#d3 (Lol completly useless)
 d3 = abck.calc_d3()
 print(d3)
 # Output (Is diff each time genned) => 8350580
