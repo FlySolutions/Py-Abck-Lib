@@ -1,6 +1,7 @@
 # Py-Abck-Lib
 Python Abck Lib inspired by https://github.com/zedd3v/abck \
-Example of all uses in main.py
+Example of all uses in main.py \
+Currently created for FireFox
 ```python
 from abck import Abck
 from time import time
